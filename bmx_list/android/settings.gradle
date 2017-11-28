@@ -1,0 +1,3 @@
+rootProject.name = 'bmx_list'
+
+include ':app'
