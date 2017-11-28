@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Barspin",
+        "description": "The barspin hop is a fundamental trick in BMX, it’s common in most types of riding. If you ride street, there’s no better place to learn how to spin the bars than on some flat ground.",
+        "video": "https://www.youtube.com/watch?v=Bz-d2v049mA",
+        "image": "https://bmxunion.com/wp-content/uploads/2016/09/how-to-barspin-bmx-video-corey-martinez.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Tailwhip",
+        "description": "A 360° rotation of a frame around the front end of your BMX.",
+        "video": "https://www.youtube.com/watch?v=EHrgCaaQjfM",
+        "image": "http://p.vitalbmx.com/photos/users/363/photos/20458/s780_86392230_1250650334.jpg?1293306591"
+    },
+    {
+        "id": 3,
+        "name": "Manual",
+        "description": "A manual is when you're riding on the rear wheel and not turning your pedals. You simply lift the front wheel off the ground, shift your body weight backwards and balance with your legs. This is a basic trick you can tackle on any level surface. ",
+        "video": "https://www.youtube.com/watch?v=l5Gm7ujMlXo",
+        "image": "http://mellonbmx.com/wp-content/uploads/2012/10/Shane4-e1350490458352.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tuck No Hander",
+        "description": "Tuck no hander is perhaps one of the best looking photo on bmx tricks. Despite the name, oftentimes a clean no hand feels more confindent than a regular jump. Some know this trick variation as the old school no hand.",
+        "video": "https://www.youtube.com/watch?v=l5Gm7ujMlXo",
+        "image": "https://ucarecdn.com/28fb1427-5f03-4893-a24d-5b69c5fa3367/-/quality/lighter/-/sharp/3/-/format/jpeg/-/progressive/yes/-/quality/normal/-/scale_crop/310x310/center/"
+    }
+]
